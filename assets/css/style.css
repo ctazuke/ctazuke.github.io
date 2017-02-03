@@ -1,3 +1,6 @@
 h1 {
     color: #B4D455;
+    margin-bottom: 200px;
+    padding-bottom: 100px;
+    border-bottom: 1px dashed orangered;
 }
