@@ -21,6 +21,10 @@ p {
     display: inline-block;
 }
 
+.white {
+    background-color: white;
+}
+
 #slideshare {
     font-style: italic;
 }
