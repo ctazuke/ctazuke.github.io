@@ -7,6 +7,9 @@ h1 {
 
 body {
     background-color: aliceblue;
+    border-bottom-style: solid;
+    border-bottom-width: 20px;
+    border-color: darkblue;
 }
 
 
@@ -14,14 +17,19 @@ p {
     margin: 20px;
 }
 
-/*
+.inline {
+    display: inline-block;
+}
+
+#slideshare {
+    font-style: italic;
+}
+
+/*  
 a {
     background-color: lightpink;
 }
 */
 
-#about {
-    margin-bottom: 50px;
-}
 
 
