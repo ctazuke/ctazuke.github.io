@@ -1,5 +1,9 @@
+head{
+    color: midnightblue;
+}
+
 h1 {
-    color: darkblue;
+    color: midnightblue;
     margin-bottom: 20px;
     padding-bottom: 20px;
     border-bottom: 1px dashed lightblue;
@@ -9,20 +13,24 @@ body {
     background-color: aliceblue;
     border-bottom-style: solid;
     border-bottom-width: 20px;
-    border-color: darkblue;
+    border-color: midnightblue;
 }
-
 
 p {
     margin: 20px;
 }
 
-.inline {
-    display: inline-block;
+.menu {
+    background-color: midnightblue;
 }
 
-.white {
-    background-color: white;
+.linkinmenu {
+    background-color: midnightblue;
+    color: white;
+}
+
+.inline {
+    display: inline-block;
 }
 
 #slideshare {
