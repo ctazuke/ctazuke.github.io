@@ -6,7 +6,6 @@ h1 {
     color: midnightblue;
     margin-bottom: 20px;
     padding-bottom: 20px;
-    border-bottom: 1px dashed lightblue;
 }
 
 body {
@@ -29,9 +28,9 @@ p {
     color: white;
 }
 
-.inline {
+/*.inline {
     display: inline-block;
-}
+}*/
 
 #slideshare {
     font-style: italic;
